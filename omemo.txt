@@ -1,0 +1,4 @@
+xmpp:ferris@snug.moe
+
+desktop ce4af876 a0c8ec10 0a35452f af89cc07 eef4ce19 b4c77169 7295c207 b451cb2b
+mobile  ed444eba 89291373 51a02bd3 31782b01 e818005c 76fb8d3f ff0721e9 d8dd2403
