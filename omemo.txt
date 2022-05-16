@@ -1,4 +1,14 @@
 xmpp:ferris@snug.moe
 
-desktop ce4af876 a0c8ec10 0a35452f af89cc07 eef4ce19 b4c77169 7295c207 b451cb2b
-mobile  ed444eba 89291373 51a02bd3 31782b01 e818005c 76fb8d3f ff0721e9 d8dd2403
+active keys:
+  desktop
+    322c6977 b8f6a3e9 f7a99d8e 1042acb8
+    d3777d01 922ee87f 964b1538 3fb1ac76
+  mobile
+    ed444eba 89291373 51a02bd3 31782b01
+    e818005c 76fb8d3f ff0721e9 d8dd2403
+
+old keys:
+  unused as of 2022-05-16
+    ce4af876 a0c8ec10 0a35452f af89cc07
+    eef4ce19 b4c77169 7295c207 b451cb2b
