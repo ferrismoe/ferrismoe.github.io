@@ -41,3 +41,53 @@ code {
   padding: 5px;
   border-radius: 5px;
 }
+
+.felix-container {
+  position: relative;
+}
+
+.sprite {
+  width: 256px;
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  animation: wiggle 1s infinite;
+}
+
+.felix {
+  transform: rotate(-2deg);
+}
+
+.shiny {
+  transform: rotate(2deg);
+  animation: zoom 1s infinite;
+}
+
+@keyframes wiggle {
+  50% {
+    transform: rotate(2deg);
+  }
+}
+
+@keyframes zoom {
+  50% {
+    transform: rotate(-2deg) scale(1.1);
+  }
+}
+
+.s1 {
+  animation-delay: 0.1s;
+}
+
+.s2 {
+  animation-delay: 0.2s;
+}
+
+.s3 {
+  animation-delay: 0.3s;
+}
+
+.s4 {
+  animation-delay: 0.4s;
+}
